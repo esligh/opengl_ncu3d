@@ -3,5 +3,5 @@ opengl_ncu3d is just a simple scene of gym (it's a modern building ,as for me i 
 and a little math knowledge (bezier curve).
 
 # *screenshot* 
-![]()
-![]()
+![](/screenshot/screenshot1.png)
+![](/screenshot/screenshot2.png)
