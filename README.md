@@ -1,6 +1,6 @@
 # *opengl_ncu3d*
 opengl_ncu3d is just a simple scene of gym (it's a modern building ,as for me i think:D ).the program uses base opengl api
-and a little math knowledge (bezier curve).
+and a little graphic knowledge (bezier curve).
 
 # *screenshot* 
 ![](/screenshot/screenshot1.png)
